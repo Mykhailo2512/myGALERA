@@ -1,0 +1,170 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.08.2013 12:01:55
+
+newmtl Tex_0087_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0087_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0087_0.dds
+
+newmtl Tex_0089_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0089_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0089_0.dds
+
+newmtl Tex_0091_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0091_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0091_0.dds
+
+newmtl Tex_0093_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0093_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0093_0.dds
+
+newmtl Tex_0096_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0096_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0096_0.dds
+
+newmtl Tex_0114_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0114_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0114_0.dds
+
+newmtl Tex_0115_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0115_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0115_0.dds
+
+newmtl Tex_0118_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0118_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0118_0.dds
+
+newmtl Tex_0116_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0116_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0116_0.dds
+
+newmtl Tex_0122_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0122_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0122_0.dds
+
+newmtl Tex_0124_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0124_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0124_0.dds
+
+newmtl Tex_0126_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Hampus\Desktop\Lybia\Tex_0126_0.dds
+	map_Kd C:\Users\Hampus\Desktop\Lybia\Tex_0126_0.dds
